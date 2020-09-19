@@ -51,7 +51,3 @@ Este proyecto es divulgativo. Solo para uso personal, aprendizaje y entretenimie
 * Comenta a otros sobre este proyecto y difunde! 📢
 *  🤓
 
-
-
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
